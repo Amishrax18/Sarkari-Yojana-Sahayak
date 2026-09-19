@@ -51,9 +51,6 @@ The app doesn't just list schemes randomly — it reasons through eligibility. F
 
 This was our team's first time working with AI prompt engineering and PartyRock. We learned how to design multi-field input flows, structure prompts so AI reasons through eligibility logic instead of just listing information, and think about real-world usability (like the WhatsApp-sharing feature) rather than just building a technically working app.
 
-## 📸 Screenshots
-
-[Add screenshots here]
 
 ---
 
