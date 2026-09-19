@@ -35,7 +35,7 @@ The app doesn't just list schemes randomly — it reasons through eligibility. F
 ## 🔗 Links
 
 - **Live App (PartyRock):** https://partyrock.aws/u/Arjun18/X0El0odQz/Sarkari-Yojna-Sahaayak
-- **Demo Video (3 min):** [paste your YouTube/Drive link here once uploaded]
+- **Demo Video (3 min):** https://youtu.be/SriGjjqZWb0
 
 > Note: To interact with the app yourself, PartyRock requires a free sign-in (via Amazon account, ~30 seconds) — this is standard for all PartyRock apps and not specific to ours. The demo video shows the full working output without needing to sign in.
 
