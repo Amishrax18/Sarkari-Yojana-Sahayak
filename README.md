@@ -35,7 +35,7 @@ The app doesn't just list schemes randomly — it reasons through eligibility. F
 ## 🔗 Links
 
 - **Live App (PartyRock):** https://partyrock.aws/u/Arjun18/X0El0odQz/Sarkari-Yojna-Sahaayak
-- **Demo Video (3 min):** https://youtu.be/SriGjjqZWb0
+- **Demo Video :** https://youtu.be/SriGjjqZWb0
 
 > Note: To interact with the app yourself, PartyRock requires a free sign-in (via Amazon account, ~30 seconds) — this is standard for all PartyRock apps and not specific to ours. The demo video shows the full working output without needing to sign in.
 
@@ -51,7 +51,8 @@ The app doesn't just list schemes randomly — it reasons through eligibility. F
 
 This was our team's first time working with AI prompt engineering and PartyRock. We learned how to design multi-field input flows, structure prompts so AI reasons through eligibility logic instead of just listing information, and think about real-world usability (like the WhatsApp-sharing feature) rather than just building a technically working app.
 
-
+## 🤖 AI Tools Used
+We used Claude (Anthropic) throughout this project for guidance on prompt engineering, debugging our PartyRock flow, and structuring this documentation.
 ---
 
 *Built with ❤️ for the AWS x WeMakeDevs Bharat Builds Tour — First Commit Hackathon, September 2026.*
